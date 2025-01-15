@@ -11,5 +11,4 @@ SmartSpendExpense is a project designed to help you keep track of your expenses.
 - Export expense data to CSV for further analysis
 
 ## Installation 
-1. Clone the repository:
-    ```bash git clone https://github.com/faraaz97/SmartSpendExpense.git
+1. Clone the repository:  git clone https://github.com/faraaz97/SmartSpendExpense.git
